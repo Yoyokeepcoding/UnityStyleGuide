@@ -1,29 +1,24 @@
-The Ramen Unity Style Guide
+LIN3046 Group Report: Female Discourse Research
 ===========================
 
-### For file structure, naming conventions and other things
+### Introduction
 
-These are guidelines for keeping your project organized and allow your team to quickly find the assets they need. Games are large projects that span several months, thus having standardized conventions that make sense will avoid headaches in the long run.
-
-Note that your team and project might have different needs, use different software, etc. Use this guide only as a base to decide on what works for your team. Every project should have its own, easy to find, style guide, so everyone in the team is up to date in the project's conventions.
+a. Descriptive Data
+b. Research Question(s) or problem addressed
 
 # Table of Contents
 
-- [Asset Naming](#asset-naming)
-    - [Folders](#folders)
-    - [Source code](#source-code)
-    - [Non-code assets](#non-code-assets)
-- [Directory/File structure](#directory-file-structure)
-    - [Assets](#assets)
-    - [Scripts](#scripts)
-    - [Models](#models)
-- [Workflow](#workflow)
-    - [Models](#models)
-    - [Textures](#textures)
-    - [Configuration files](#configuration-files)
-    - [Localization](#localization)
-    - [Audio](#audio)
-- [Be Consistent](#be-consistent)
+- [Dataset](#dataset)
+    - [Transcription](#transcription)
+    - [Segmentation](#Segmentation)
+    - [Metadata](#Metadata)
+    - [Annotation](#Annotation)
+- [Methodology](#Methodology)
+    - [Collection](#collection)
+    - [Cleaning](#cleaning)
+    - [Analysis](#analysis)
+- [Discussion](#discussion)
+- [Contributors](#contributors)
 
 # Asset Naming
 
